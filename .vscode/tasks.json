@@ -11,7 +11,7 @@
         {
             "label": "Python: Main File",
             "type": "shell",
-            "command": "${command:python.interpreterPath} ${workspaceFolder}/main.py",
+            "command": "${command:python.interpreterPath} ${workspaceFolder}/cuda_test/cuda_test.py",
             "args": [],
             "group": "build"
         }
